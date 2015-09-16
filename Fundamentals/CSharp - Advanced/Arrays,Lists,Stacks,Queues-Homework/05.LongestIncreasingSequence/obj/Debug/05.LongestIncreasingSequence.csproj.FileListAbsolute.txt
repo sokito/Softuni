@@ -1,0 +1,6 @@
+c:\users\soki\documents\visual studio 2013\Projects\Arrays,Lists,Stacks,Queues-Homework\05.LongestIncreasingSequence\bin\Debug\05.LongestIncreasingSequence.exe.config
+c:\users\soki\documents\visual studio 2013\Projects\Arrays,Lists,Stacks,Queues-Homework\05.LongestIncreasingSequence\bin\Debug\05.LongestIncreasingSequence.exe
+c:\users\soki\documents\visual studio 2013\Projects\Arrays,Lists,Stacks,Queues-Homework\05.LongestIncreasingSequence\bin\Debug\05.LongestIncreasingSequence.pdb
+c:\users\soki\documents\visual studio 2013\Projects\Arrays,Lists,Stacks,Queues-Homework\05.LongestIncreasingSequence\obj\Debug\05.LongestIncreasingSequence.csprojResolveAssemblyReference.cache
+c:\users\soki\documents\visual studio 2013\Projects\Arrays,Lists,Stacks,Queues-Homework\05.LongestIncreasingSequence\obj\Debug\05.LongestIncreasingSequence.exe
+c:\users\soki\documents\visual studio 2013\Projects\Arrays,Lists,Stacks,Queues-Homework\05.LongestIncreasingSequence\obj\Debug\05.LongestIncreasingSequence.pdb

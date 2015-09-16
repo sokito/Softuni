@@ -1,0 +1,6 @@
+c:\users\soki\documents\visual studio 2013\Projects\Arrays,Lists,Stacks,Queues-Homework\SubsetSums6\bin\Debug\SubsetSums6.exe.config
+c:\users\soki\documents\visual studio 2013\Projects\Arrays,Lists,Stacks,Queues-Homework\SubsetSums6\bin\Debug\SubsetSums6.exe
+c:\users\soki\documents\visual studio 2013\Projects\Arrays,Lists,Stacks,Queues-Homework\SubsetSums6\bin\Debug\SubsetSums6.pdb
+c:\users\soki\documents\visual studio 2013\Projects\Arrays,Lists,Stacks,Queues-Homework\SubsetSums6\obj\Debug\06.SubsetSums.csprojResolveAssemblyReference.cache
+c:\users\soki\documents\visual studio 2013\Projects\Arrays,Lists,Stacks,Queues-Homework\SubsetSums6\obj\Debug\SubsetSums6.exe
+c:\users\soki\documents\visual studio 2013\Projects\Arrays,Lists,Stacks,Queues-Homework\SubsetSums6\obj\Debug\SubsetSums6.pdb

@@ -1,0 +1,6 @@
+C:\Users\soki\documents\visual studio 2013\Projects\Arrays,Lists,Stacks,Queues-Homework\09.StuckNumbers\bin\Debug\09.StuckNumbers.exe.config
+C:\Users\soki\documents\visual studio 2013\Projects\Arrays,Lists,Stacks,Queues-Homework\09.StuckNumbers\obj\Debug\09.StuckNumbers.csprojResolveAssemblyReference.cache
+C:\Users\soki\documents\visual studio 2013\Projects\Arrays,Lists,Stacks,Queues-Homework\09.StuckNumbers\bin\Debug\09.StuckNumbers.exe
+C:\Users\soki\documents\visual studio 2013\Projects\Arrays,Lists,Stacks,Queues-Homework\09.StuckNumbers\bin\Debug\09.StuckNumbers.pdb
+C:\Users\soki\documents\visual studio 2013\Projects\Arrays,Lists,Stacks,Queues-Homework\09.StuckNumbers\obj\Debug\09.StuckNumbers.exe
+C:\Users\soki\documents\visual studio 2013\Projects\Arrays,Lists,Stacks,Queues-Homework\09.StuckNumbers\obj\Debug\09.StuckNumbers.pdb

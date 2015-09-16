@@ -1,0 +1,6 @@
+c:\users\soki\documents\visual studio 2013\Projects\Arrays,Lists,Stacks,Queues-Homework\03.CategorizeNumbersFindMinMax\bin\Debug\03.CategorizeNumbersFindMinMax.exe.config
+c:\users\soki\documents\visual studio 2013\Projects\Arrays,Lists,Stacks,Queues-Homework\03.CategorizeNumbersFindMinMax\bin\Debug\03.CategorizeNumbersFindMinMax.exe
+c:\users\soki\documents\visual studio 2013\Projects\Arrays,Lists,Stacks,Queues-Homework\03.CategorizeNumbersFindMinMax\bin\Debug\03.CategorizeNumbersFindMinMax.pdb
+c:\users\soki\documents\visual studio 2013\Projects\Arrays,Lists,Stacks,Queues-Homework\03.CategorizeNumbersFindMinMax\obj\Debug\03.CategorizeNumbersFindMinMax.exe
+c:\users\soki\documents\visual studio 2013\Projects\Arrays,Lists,Stacks,Queues-Homework\03.CategorizeNumbersFindMinMax\obj\Debug\03.CategorizeNumbersFindMinMax.pdb
+c:\users\soki\documents\visual studio 2013\Projects\Arrays,Lists,Stacks,Queues-Homework\03.CategorizeNumbersFindMinMax\obj\Debug\03.CategorizeNumbersFindMinMax.csprojResolveAssemblyReference.cache
