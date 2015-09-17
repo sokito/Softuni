@@ -1,0 +1,6 @@
+c:\users\soki\documents\visual studio 2013\Projects\02.MultidimensionalArrays,Sets,Dictionaries[Homework]\MatricalSum\bin\Debug\MatricalSum.exe.config
+c:\users\soki\documents\visual studio 2013\Projects\02.MultidimensionalArrays,Sets,Dictionaries[Homework]\MatricalSum\bin\Debug\MatricalSum.exe
+c:\users\soki\documents\visual studio 2013\Projects\02.MultidimensionalArrays,Sets,Dictionaries[Homework]\MatricalSum\bin\Debug\MatricalSum.pdb
+c:\users\soki\documents\visual studio 2013\Projects\02.MultidimensionalArrays,Sets,Dictionaries[Homework]\MatricalSum\obj\Debug\MatricalSum.exe
+c:\users\soki\documents\visual studio 2013\Projects\02.MultidimensionalArrays,Sets,Dictionaries[Homework]\MatricalSum\obj\Debug\MatricalSum.pdb
+c:\users\soki\documents\visual studio 2013\Projects\02.MultidimensionalArrays,Sets,Dictionaries[Homework]\MatricalSum\obj\Debug\MaximumSum.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\soki\documents\visual studio 2013\Projects\02.MultidimensionalArrays,Sets,Dictionaries[Homework]\CollectTheCoins\bin\Debug\CollectTheCoins.exe.config
+C:\Users\soki\documents\visual studio 2013\Projects\02.MultidimensionalArrays,Sets,Dictionaries[Homework]\CollectTheCoins\bin\Debug\CollectTheCoins.exe
+C:\Users\soki\documents\visual studio 2013\Projects\02.MultidimensionalArrays,Sets,Dictionaries[Homework]\CollectTheCoins\bin\Debug\CollectTheCoins.pdb
+C:\Users\soki\documents\visual studio 2013\Projects\02.MultidimensionalArrays,Sets,Dictionaries[Homework]\CollectTheCoins\obj\Debug\05.CollectTheCoins.csprojResolveAssemblyReference.cache
+C:\Users\soki\documents\visual studio 2013\Projects\02.MultidimensionalArrays,Sets,Dictionaries[Homework]\CollectTheCoins\obj\Debug\CollectTheCoins.exe
+C:\Users\soki\documents\visual studio 2013\Projects\02.MultidimensionalArrays,Sets,Dictionaries[Homework]\CollectTheCoins\obj\Debug\CollectTheCoins.pdb

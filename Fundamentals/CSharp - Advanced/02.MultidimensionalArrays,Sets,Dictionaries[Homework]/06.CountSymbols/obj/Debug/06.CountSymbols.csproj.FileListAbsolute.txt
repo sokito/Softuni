@@ -1,0 +1,6 @@
+C:\Users\soki\documents\visual studio 2013\Projects\02.MultidimensionalArrays,Sets,Dictionaries[Homework]\06.CountSymbols\bin\Debug\06.CountSymbols.exe.config
+C:\Users\soki\documents\visual studio 2013\Projects\02.MultidimensionalArrays,Sets,Dictionaries[Homework]\06.CountSymbols\bin\Debug\06.CountSymbols.exe
+C:\Users\soki\documents\visual studio 2013\Projects\02.MultidimensionalArrays,Sets,Dictionaries[Homework]\06.CountSymbols\bin\Debug\06.CountSymbols.pdb
+C:\Users\soki\documents\visual studio 2013\Projects\02.MultidimensionalArrays,Sets,Dictionaries[Homework]\06.CountSymbols\obj\Debug\06.CountSymbols.csprojResolveAssemblyReference.cache
+C:\Users\soki\documents\visual studio 2013\Projects\02.MultidimensionalArrays,Sets,Dictionaries[Homework]\06.CountSymbols\obj\Debug\06.CountSymbols.exe
+C:\Users\soki\documents\visual studio 2013\Projects\02.MultidimensionalArrays,Sets,Dictionaries[Homework]\06.CountSymbols\obj\Debug\06.CountSymbols.pdb

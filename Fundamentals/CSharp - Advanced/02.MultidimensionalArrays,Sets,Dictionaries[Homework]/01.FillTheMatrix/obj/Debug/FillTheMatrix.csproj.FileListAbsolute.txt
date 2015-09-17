@@ -1,0 +1,6 @@
+c:\users\soki\documents\visual studio 2013\Projects\02.MultidimensionalArrays,Sets,Dictionaries[Homework]\FillTheMatrix\bin\Debug\FillTheMatrix.exe.config
+c:\users\soki\documents\visual studio 2013\Projects\02.MultidimensionalArrays,Sets,Dictionaries[Homework]\FillTheMatrix\bin\Debug\FillTheMatrix.exe
+c:\users\soki\documents\visual studio 2013\Projects\02.MultidimensionalArrays,Sets,Dictionaries[Homework]\FillTheMatrix\bin\Debug\FillTheMatrix.pdb
+c:\users\soki\documents\visual studio 2013\Projects\02.MultidimensionalArrays,Sets,Dictionaries[Homework]\FillTheMatrix\obj\Debug\FillTheMatrix.csprojResolveAssemblyReference.cache
+c:\users\soki\documents\visual studio 2013\Projects\02.MultidimensionalArrays,Sets,Dictionaries[Homework]\FillTheMatrix\obj\Debug\FillTheMatrix.exe
+c:\users\soki\documents\visual studio 2013\Projects\02.MultidimensionalArrays,Sets,Dictionaries[Homework]\FillTheMatrix\obj\Debug\FillTheMatrix.pdb
