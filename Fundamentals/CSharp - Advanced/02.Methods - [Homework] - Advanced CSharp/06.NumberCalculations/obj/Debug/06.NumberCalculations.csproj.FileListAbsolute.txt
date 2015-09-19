@@ -1,0 +1,6 @@
+c:\users\soki\documents\visual studio 2013\Projects\02.Methods - [Homework] - Advanced CSharp\06.NumberCalculations\bin\Debug\06.NumberCalculations.exe.config
+c:\users\soki\documents\visual studio 2013\Projects\02.Methods - [Homework] - Advanced CSharp\06.NumberCalculations\bin\Debug\06.NumberCalculations.exe
+c:\users\soki\documents\visual studio 2013\Projects\02.Methods - [Homework] - Advanced CSharp\06.NumberCalculations\bin\Debug\06.NumberCalculations.pdb
+c:\users\soki\documents\visual studio 2013\Projects\02.Methods - [Homework] - Advanced CSharp\06.NumberCalculations\obj\Debug\06.NumberCalculations.csprojResolveAssemblyReference.cache
+c:\users\soki\documents\visual studio 2013\Projects\02.Methods - [Homework] - Advanced CSharp\06.NumberCalculations\obj\Debug\06.NumberCalculations.exe
+c:\users\soki\documents\visual studio 2013\Projects\02.Methods - [Homework] - Advanced CSharp\06.NumberCalculations\obj\Debug\06.NumberCalculations.pdb

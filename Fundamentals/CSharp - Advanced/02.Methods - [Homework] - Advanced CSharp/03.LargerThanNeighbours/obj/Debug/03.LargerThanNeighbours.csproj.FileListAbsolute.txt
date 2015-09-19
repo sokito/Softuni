@@ -1,0 +1,6 @@
+c:\users\soki\documents\visual studio 2013\Projects\02.Methods - [Homework] - Advanced CSharp\03.LargerThanNeighbours\bin\Debug\03.LargerThanNeighbours.exe.config
+c:\users\soki\documents\visual studio 2013\Projects\02.Methods - [Homework] - Advanced CSharp\03.LargerThanNeighbours\bin\Debug\03.LargerThanNeighbours.exe
+c:\users\soki\documents\visual studio 2013\Projects\02.Methods - [Homework] - Advanced CSharp\03.LargerThanNeighbours\bin\Debug\03.LargerThanNeighbours.pdb
+c:\users\soki\documents\visual studio 2013\Projects\02.Methods - [Homework] - Advanced CSharp\03.LargerThanNeighbours\obj\Debug\03.LargerThanNeighbours.csprojResolveAssemblyReference.cache
+c:\users\soki\documents\visual studio 2013\Projects\02.Methods - [Homework] - Advanced CSharp\03.LargerThanNeighbours\obj\Debug\03.LargerThanNeighbours.exe
+c:\users\soki\documents\visual studio 2013\Projects\02.Methods - [Homework] - Advanced CSharp\03.LargerThanNeighbours\obj\Debug\03.LargerThanNeighbours.pdb

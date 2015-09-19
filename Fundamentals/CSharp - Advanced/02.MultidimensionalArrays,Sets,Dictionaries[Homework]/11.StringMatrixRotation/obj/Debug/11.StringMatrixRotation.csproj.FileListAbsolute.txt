@@ -1,0 +1,6 @@
+C:\Users\soki\documents\visual studio 2013\Projects\02.MultidimensionalArrays,Sets,Dictionaries[Homework]\11.StringMatrixRotation\bin\Debug\11.StringMatrixRotation.exe.config
+C:\Users\soki\documents\visual studio 2013\Projects\02.MultidimensionalArrays,Sets,Dictionaries[Homework]\11.StringMatrixRotation\bin\Debug\11.StringMatrixRotation.exe
+C:\Users\soki\documents\visual studio 2013\Projects\02.MultidimensionalArrays,Sets,Dictionaries[Homework]\11.StringMatrixRotation\bin\Debug\11.StringMatrixRotation.pdb
+C:\Users\soki\documents\visual studio 2013\Projects\02.MultidimensionalArrays,Sets,Dictionaries[Homework]\11.StringMatrixRotation\obj\Debug\11.StringMatrixRotation.csprojResolveAssemblyReference.cache
+C:\Users\soki\documents\visual studio 2013\Projects\02.MultidimensionalArrays,Sets,Dictionaries[Homework]\11.StringMatrixRotation\obj\Debug\11.StringMatrixRotation.exe
+C:\Users\soki\documents\visual studio 2013\Projects\02.MultidimensionalArrays,Sets,Dictionaries[Homework]\11.StringMatrixRotation\obj\Debug\11.StringMatrixRotation.pdb

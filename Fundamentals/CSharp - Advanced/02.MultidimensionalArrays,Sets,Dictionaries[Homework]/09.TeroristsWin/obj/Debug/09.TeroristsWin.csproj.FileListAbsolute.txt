@@ -1,0 +1,6 @@
+C:\Users\soki\documents\visual studio 2013\Projects\02.MultidimensionalArrays,Sets,Dictionaries[Homework]\09.TeroristsWin\bin\Debug\09.TeroristsWin.exe.config
+C:\Users\soki\documents\visual studio 2013\Projects\02.MultidimensionalArrays,Sets,Dictionaries[Homework]\09.TeroristsWin\bin\Debug\09.TeroristsWin.exe
+C:\Users\soki\documents\visual studio 2013\Projects\02.MultidimensionalArrays,Sets,Dictionaries[Homework]\09.TeroristsWin\bin\Debug\09.TeroristsWin.pdb
+C:\Users\soki\documents\visual studio 2013\Projects\02.MultidimensionalArrays,Sets,Dictionaries[Homework]\09.TeroristsWin\obj\Debug\09.TeroristsWin.csprojResolveAssemblyReference.cache
+C:\Users\soki\documents\visual studio 2013\Projects\02.MultidimensionalArrays,Sets,Dictionaries[Homework]\09.TeroristsWin\obj\Debug\09.TeroristsWin.exe
+C:\Users\soki\documents\visual studio 2013\Projects\02.MultidimensionalArrays,Sets,Dictionaries[Homework]\09.TeroristsWin\obj\Debug\09.TeroristsWin.pdb

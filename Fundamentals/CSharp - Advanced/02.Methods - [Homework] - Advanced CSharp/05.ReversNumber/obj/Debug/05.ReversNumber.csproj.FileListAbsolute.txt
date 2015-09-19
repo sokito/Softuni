@@ -1,0 +1,1 @@
+c:\users\soki\documents\visual studio 2013\Projects\02.Methods - [Homework] - Advanced CSharp\05.ReversNumber\bin\Debug\05.ReversNumber.exe.config
