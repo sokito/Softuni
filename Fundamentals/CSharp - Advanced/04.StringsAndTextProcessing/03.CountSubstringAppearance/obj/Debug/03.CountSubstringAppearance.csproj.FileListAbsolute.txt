@@ -1,0 +1,6 @@
+c:\users\soki\documents\visual studio 2013\Projects\04.StringsAndTextProcessing\03.CountSubstringAppearance\bin\Debug\03.CountSubstringAppearance.exe.config
+c:\users\soki\documents\visual studio 2013\Projects\04.StringsAndTextProcessing\03.CountSubstringAppearance\bin\Debug\03.CountSubstringAppearance.exe
+c:\users\soki\documents\visual studio 2013\Projects\04.StringsAndTextProcessing\03.CountSubstringAppearance\bin\Debug\03.CountSubstringAppearance.pdb
+c:\users\soki\documents\visual studio 2013\Projects\04.StringsAndTextProcessing\03.CountSubstringAppearance\obj\Debug\03.CountSubstringAppearance.csprojResolveAssemblyReference.cache
+c:\users\soki\documents\visual studio 2013\Projects\04.StringsAndTextProcessing\03.CountSubstringAppearance\obj\Debug\03.CountSubstringAppearance.exe
+c:\users\soki\documents\visual studio 2013\Projects\04.StringsAndTextProcessing\03.CountSubstringAppearance\obj\Debug\03.CountSubstringAppearance.pdb

@@ -1,0 +1,6 @@
+c:\users\soki\documents\visual studio 2013\Projects\04.StringsAndTextProcessing\TextFilter\bin\Debug\TextFilter.exe.config
+c:\users\soki\documents\visual studio 2013\Projects\04.StringsAndTextProcessing\TextFilter\bin\Debug\TextFilter.exe
+c:\users\soki\documents\visual studio 2013\Projects\04.StringsAndTextProcessing\TextFilter\bin\Debug\TextFilter.pdb
+c:\users\soki\documents\visual studio 2013\Projects\04.StringsAndTextProcessing\TextFilter\obj\Debug\04.TextFilter.csprojResolveAssemblyReference.cache
+c:\users\soki\documents\visual studio 2013\Projects\04.StringsAndTextProcessing\TextFilter\obj\Debug\TextFilter.exe
+c:\users\soki\documents\visual studio 2013\Projects\04.StringsAndTextProcessing\TextFilter\obj\Debug\TextFilter.pdb

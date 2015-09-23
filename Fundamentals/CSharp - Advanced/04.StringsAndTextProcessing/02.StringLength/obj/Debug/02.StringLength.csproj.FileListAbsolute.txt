@@ -1,0 +1,5 @@
+c:\users\soki\documents\visual studio 2013\Projects\04.StringsAndTextProcessing\StringLength\bin\Debug\StringLength.exe.config
+c:\users\soki\documents\visual studio 2013\Projects\04.StringsAndTextProcessing\StringLength\bin\Debug\StringLength.exe
+c:\users\soki\documents\visual studio 2013\Projects\04.StringsAndTextProcessing\StringLength\bin\Debug\StringLength.pdb
+c:\users\soki\documents\visual studio 2013\Projects\04.StringsAndTextProcessing\StringLength\obj\Debug\StringLength.exe
+c:\users\soki\documents\visual studio 2013\Projects\04.StringsAndTextProcessing\StringLength\obj\Debug\StringLength.pdb

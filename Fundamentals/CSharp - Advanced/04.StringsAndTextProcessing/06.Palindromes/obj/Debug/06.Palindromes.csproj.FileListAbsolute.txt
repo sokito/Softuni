@@ -1,0 +1,5 @@
+c:\users\soki\documents\visual studio 2013\Projects\04.StringsAndTextProcessing\06.Palindromes\bin\Debug\06.Palindromes.exe.config
+c:\users\soki\documents\visual studio 2013\Projects\04.StringsAndTextProcessing\06.Palindromes\bin\Debug\06.Palindromes.exe
+c:\users\soki\documents\visual studio 2013\Projects\04.StringsAndTextProcessing\06.Palindromes\bin\Debug\06.Palindromes.pdb
+c:\users\soki\documents\visual studio 2013\Projects\04.StringsAndTextProcessing\06.Palindromes\obj\Debug\06.Palindromes.exe
+c:\users\soki\documents\visual studio 2013\Projects\04.StringsAndTextProcessing\06.Palindromes\obj\Debug\06.Palindromes.pdb

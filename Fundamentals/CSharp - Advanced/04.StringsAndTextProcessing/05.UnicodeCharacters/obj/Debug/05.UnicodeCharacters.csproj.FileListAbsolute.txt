@@ -1,0 +1,5 @@
+c:\users\soki\documents\visual studio 2013\Projects\04.StringsAndTextProcessing\05.UnicodeCharacters\bin\Debug\05.UnicodeCharacters.exe.config
+c:\users\soki\documents\visual studio 2013\Projects\04.StringsAndTextProcessing\05.UnicodeCharacters\bin\Debug\05.UnicodeCharacters.exe
+c:\users\soki\documents\visual studio 2013\Projects\04.StringsAndTextProcessing\05.UnicodeCharacters\bin\Debug\05.UnicodeCharacters.pdb
+c:\users\soki\documents\visual studio 2013\Projects\04.StringsAndTextProcessing\05.UnicodeCharacters\obj\Debug\05.UnicodeCharacters.exe
+c:\users\soki\documents\visual studio 2013\Projects\04.StringsAndTextProcessing\05.UnicodeCharacters\obj\Debug\05.UnicodeCharacters.pdb

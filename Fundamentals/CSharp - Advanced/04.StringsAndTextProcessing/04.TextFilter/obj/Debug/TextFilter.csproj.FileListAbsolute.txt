@@ -1,0 +1,1 @@
+c:\users\soki\documents\visual studio 2013\Projects\04.StringsAndTextProcessing\TextFilter\bin\Debug\TextFilter.exe.config
