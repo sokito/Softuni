@@ -1,0 +1,6 @@
+C:\Users\soki\documents\visual studio 2013\Projects\AlghoritmsRecursion\PathsBetweenCellsMatrix\bin\Debug\PathsBetweenCellsMatrix.exe.config
+C:\Users\soki\documents\visual studio 2013\Projects\AlghoritmsRecursion\PathsBetweenCellsMatrix\bin\Debug\PathsBetweenCellsMatrix.exe
+C:\Users\soki\documents\visual studio 2013\Projects\AlghoritmsRecursion\PathsBetweenCellsMatrix\bin\Debug\PathsBetweenCellsMatrix.pdb
+C:\Users\soki\documents\visual studio 2013\Projects\AlghoritmsRecursion\PathsBetweenCellsMatrix\obj\Debug\05.PathsBetweenCellsMatrix.csprojResolveAssemblyReference.cache
+C:\Users\soki\documents\visual studio 2013\Projects\AlghoritmsRecursion\PathsBetweenCellsMatrix\obj\Debug\PathsBetweenCellsMatrix.exe
+C:\Users\soki\documents\visual studio 2013\Projects\AlghoritmsRecursion\PathsBetweenCellsMatrix\obj\Debug\PathsBetweenCellsMatrix.pdb

@@ -1,0 +1,6 @@
+c:\users\soki\documents\visual studio 2013\Projects\AlghoritmsRecursion\TowerOfHanoi\bin\Debug\TowerOfHanoi.exe.config
+c:\users\soki\documents\visual studio 2013\Projects\AlghoritmsRecursion\TowerOfHanoi\obj\Debug\TowerOfHanoi.csprojResolveAssemblyReference.cache
+c:\users\soki\documents\visual studio 2013\Projects\AlghoritmsRecursion\TowerOfHanoi\bin\Debug\TowerOfHanoi.exe
+c:\users\soki\documents\visual studio 2013\Projects\AlghoritmsRecursion\TowerOfHanoi\bin\Debug\TowerOfHanoi.pdb
+c:\users\soki\documents\visual studio 2013\Projects\AlghoritmsRecursion\TowerOfHanoi\obj\Debug\TowerOfHanoi.exe
+c:\users\soki\documents\visual studio 2013\Projects\AlghoritmsRecursion\TowerOfHanoi\obj\Debug\TowerOfHanoi.pdb

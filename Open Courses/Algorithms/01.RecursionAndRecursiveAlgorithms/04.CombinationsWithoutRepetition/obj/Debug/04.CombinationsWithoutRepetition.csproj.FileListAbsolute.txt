@@ -1,0 +1,6 @@
+C:\Users\soki\documents\visual studio 2013\Projects\AlghoritmsRecursion\04.CombinationsWithoutRepetition\bin\Debug\04.CombinationsWithoutRepetition.exe.config
+C:\Users\soki\documents\visual studio 2013\Projects\AlghoritmsRecursion\04.CombinationsWithoutRepetition\bin\Debug\04.CombinationsWithoutRepetition.exe
+C:\Users\soki\documents\visual studio 2013\Projects\AlghoritmsRecursion\04.CombinationsWithoutRepetition\bin\Debug\04.CombinationsWithoutRepetition.pdb
+C:\Users\soki\documents\visual studio 2013\Projects\AlghoritmsRecursion\04.CombinationsWithoutRepetition\obj\Debug\04.CombinationsWithoutRepetition.csprojResolveAssemblyReference.cache
+C:\Users\soki\documents\visual studio 2013\Projects\AlghoritmsRecursion\04.CombinationsWithoutRepetition\obj\Debug\04.CombinationsWithoutRepetition.exe
+C:\Users\soki\documents\visual studio 2013\Projects\AlghoritmsRecursion\04.CombinationsWithoutRepetition\obj\Debug\04.CombinationsWithoutRepetition.pdb
