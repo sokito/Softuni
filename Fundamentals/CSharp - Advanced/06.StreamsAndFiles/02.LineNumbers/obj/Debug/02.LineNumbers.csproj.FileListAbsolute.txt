@@ -1,0 +1,5 @@
+c:\users\soki\documents\visual studio 2013\Projects\[Homework]AdvancedCsharp06.StreamsAndFiles\02.LineNumbers\bin\Debug\02.LineNumbers.exe.config
+c:\users\soki\documents\visual studio 2013\Projects\[Homework]AdvancedCsharp06.StreamsAndFiles\02.LineNumbers\bin\Debug\02.LineNumbers.exe
+c:\users\soki\documents\visual studio 2013\Projects\[Homework]AdvancedCsharp06.StreamsAndFiles\02.LineNumbers\bin\Debug\02.LineNumbers.pdb
+c:\users\soki\documents\visual studio 2013\Projects\[Homework]AdvancedCsharp06.StreamsAndFiles\02.LineNumbers\obj\Debug\02.LineNumbers.exe
+c:\users\soki\documents\visual studio 2013\Projects\[Homework]AdvancedCsharp06.StreamsAndFiles\02.LineNumbers\obj\Debug\02.LineNumbers.pdb

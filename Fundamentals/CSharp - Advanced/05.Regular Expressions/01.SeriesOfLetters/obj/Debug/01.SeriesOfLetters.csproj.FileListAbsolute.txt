@@ -1,0 +1,6 @@
+c:\Users\soki\documents\visual studio 2013\Projects\RegexExercises\01.SeriesOfLetters\bin\Debug\01.SeriesOfLetters.exe.config
+c:\Users\soki\documents\visual studio 2013\Projects\RegexExercises\01.SeriesOfLetters\bin\Debug\01.SeriesOfLetters.exe
+c:\Users\soki\documents\visual studio 2013\Projects\RegexExercises\01.SeriesOfLetters\bin\Debug\01.SeriesOfLetters.pdb
+c:\Users\soki\documents\visual studio 2013\Projects\RegexExercises\01.SeriesOfLetters\obj\Debug\01.SeriesOfLetters.csprojResolveAssemblyReference.cache
+c:\Users\soki\documents\visual studio 2013\Projects\RegexExercises\01.SeriesOfLetters\obj\Debug\01.SeriesOfLetters.exe
+c:\Users\soki\documents\visual studio 2013\Projects\RegexExercises\01.SeriesOfLetters\obj\Debug\01.SeriesOfLetters.pdb

@@ -1,0 +1,6 @@
+C:\Users\soki\documents\visual studio 2013\Projects\[Homework]AdvancedCsharp06.StreamsAndFiles\07.TraverseDirectory\bin\Debug\07.TraverseDirectory.exe.config
+C:\Users\soki\documents\visual studio 2013\Projects\[Homework]AdvancedCsharp06.StreamsAndFiles\07.TraverseDirectory\bin\Debug\07.TraverseDirectory.exe
+C:\Users\soki\documents\visual studio 2013\Projects\[Homework]AdvancedCsharp06.StreamsAndFiles\07.TraverseDirectory\bin\Debug\07.TraverseDirectory.pdb
+C:\Users\soki\documents\visual studio 2013\Projects\[Homework]AdvancedCsharp06.StreamsAndFiles\07.TraverseDirectory\obj\Debug\07.TraverseDirectory.csprojResolveAssemblyReference.cache
+C:\Users\soki\documents\visual studio 2013\Projects\[Homework]AdvancedCsharp06.StreamsAndFiles\07.TraverseDirectory\obj\Debug\07.TraverseDirectory.exe
+C:\Users\soki\documents\visual studio 2013\Projects\[Homework]AdvancedCsharp06.StreamsAndFiles\07.TraverseDirectory\obj\Debug\07.TraverseDirectory.pdb

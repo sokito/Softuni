@@ -1,0 +1,6 @@
+c:\users\soki\documents\visual studio 2013\Projects\RegexExercises\MatchFullName\bin\Debug\MatchFullName.exe.config
+c:\users\soki\documents\visual studio 2013\Projects\RegexExercises\MatchFullName\bin\Debug\MatchFullName.exe
+c:\users\soki\documents\visual studio 2013\Projects\RegexExercises\MatchFullName\bin\Debug\MatchFullName.pdb
+c:\users\soki\documents\visual studio 2013\Projects\RegexExercises\MatchFullName\obj\Debug\MatchFullName.csprojResolveAssemblyReference.cache
+c:\users\soki\documents\visual studio 2013\Projects\RegexExercises\MatchFullName\obj\Debug\MatchFullName.exe
+c:\users\soki\documents\visual studio 2013\Projects\RegexExercises\MatchFullName\obj\Debug\MatchFullName.pdb

@@ -1,0 +1,6 @@
+c:\Users\soki\documents\visual studio 2013\Projects\RegexExercises\02.ReplaceTag\bin\Debug\02.ReplaceTag.exe.config
+c:\Users\soki\documents\visual studio 2013\Projects\RegexExercises\02.ReplaceTag\bin\Debug\02.ReplaceTag.exe
+c:\Users\soki\documents\visual studio 2013\Projects\RegexExercises\02.ReplaceTag\bin\Debug\02.ReplaceTag.pdb
+c:\Users\soki\documents\visual studio 2013\Projects\RegexExercises\02.ReplaceTag\obj\Debug\02.ReplaceTag.csprojResolveAssemblyReference.cache
+c:\Users\soki\documents\visual studio 2013\Projects\RegexExercises\02.ReplaceTag\obj\Debug\02.ReplaceTag.exe
+c:\Users\soki\documents\visual studio 2013\Projects\RegexExercises\02.ReplaceTag\obj\Debug\02.ReplaceTag.pdb

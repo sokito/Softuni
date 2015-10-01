@@ -1,0 +1,1 @@
+c:\users\soki\documents\visual studio 2013\Projects\[Homework]AdvancedCsharp06.StreamsAndFiles\04.WordCount\bin\Debug\04.WordCount.exe.config

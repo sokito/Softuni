@@ -1,0 +1,6 @@
+0 skorost
+1 nivo
+2 what
+3 is
+4 k'vo
+5 lytenichka

@@ -1,0 +1,6 @@
+C:\Users\soki\documents\visual studio 2013\Projects\[Homework]AdvancedCsharp06.StreamsAndFiles\06.ZippingSlicedFiles\bin\Debug\06.ZippingSlicedFiles.exe.config
+C:\Users\soki\documents\visual studio 2013\Projects\[Homework]AdvancedCsharp06.StreamsAndFiles\06.ZippingSlicedFiles\bin\Debug\06.ZippingSlicedFiles.exe
+C:\Users\soki\documents\visual studio 2013\Projects\[Homework]AdvancedCsharp06.StreamsAndFiles\06.ZippingSlicedFiles\bin\Debug\06.ZippingSlicedFiles.pdb
+C:\Users\soki\documents\visual studio 2013\Projects\[Homework]AdvancedCsharp06.StreamsAndFiles\06.ZippingSlicedFiles\obj\Debug\06.ZippingSlicedFiles.csprojResolveAssemblyReference.cache
+C:\Users\soki\documents\visual studio 2013\Projects\[Homework]AdvancedCsharp06.StreamsAndFiles\06.ZippingSlicedFiles\obj\Debug\06.ZippingSlicedFiles.exe
+C:\Users\soki\documents\visual studio 2013\Projects\[Homework]AdvancedCsharp06.StreamsAndFiles\06.ZippingSlicedFiles\obj\Debug\06.ZippingSlicedFiles.pdb

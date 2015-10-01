@@ -1,0 +1,6 @@
+c:\Users\soki\documents\visual studio 2013\Projects\RegexExercises\04.SentenceExtractor\bin\Debug\04.SentenceExtractor.exe.config
+c:\Users\soki\documents\visual studio 2013\Projects\RegexExercises\04.SentenceExtractor\obj\Debug\04.SentenceExtractor.csprojResolveAssemblyReference.cache
+c:\Users\soki\documents\visual studio 2013\Projects\RegexExercises\04.SentenceExtractor\bin\Debug\04.SentenceExtractor.exe
+c:\Users\soki\documents\visual studio 2013\Projects\RegexExercises\04.SentenceExtractor\bin\Debug\04.SentenceExtractor.pdb
+c:\Users\soki\documents\visual studio 2013\Projects\RegexExercises\04.SentenceExtractor\obj\Debug\04.SentenceExtractor.exe
+c:\Users\soki\documents\visual studio 2013\Projects\RegexExercises\04.SentenceExtractor\obj\Debug\04.SentenceExtractor.pdb

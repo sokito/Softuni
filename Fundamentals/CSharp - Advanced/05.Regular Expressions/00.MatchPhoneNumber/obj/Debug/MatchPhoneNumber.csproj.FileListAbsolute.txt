@@ -1,0 +1,6 @@
+c:\users\soki\documents\visual studio 2013\Projects\RegexExercises\MatchPhoneNumber\bin\Debug\MatchPhoneNumber.exe.config
+c:\users\soki\documents\visual studio 2013\Projects\RegexExercises\MatchPhoneNumber\bin\Debug\MatchPhoneNumber.exe
+c:\users\soki\documents\visual studio 2013\Projects\RegexExercises\MatchPhoneNumber\bin\Debug\MatchPhoneNumber.pdb
+c:\users\soki\documents\visual studio 2013\Projects\RegexExercises\MatchPhoneNumber\obj\Debug\MatchPhoneNumber.csprojResolveAssemblyReference.cache
+c:\users\soki\documents\visual studio 2013\Projects\RegexExercises\MatchPhoneNumber\obj\Debug\MatchPhoneNumber.exe
+c:\users\soki\documents\visual studio 2013\Projects\RegexExercises\MatchPhoneNumber\obj\Debug\MatchPhoneNumber.pdb

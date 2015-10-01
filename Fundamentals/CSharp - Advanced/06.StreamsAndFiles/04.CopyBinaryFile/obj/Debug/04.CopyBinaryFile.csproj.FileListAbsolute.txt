@@ -1,0 +1,6 @@
+c:\users\soki\documents\visual studio 2013\Projects\[Homework]AdvancedCsharp06.StreamsAndFiles\04.CopyBinaryFile\bin\Debug\04.CopyBinaryFile.exe.config
+C:\Users\soki\Documents\visual studio 2013\Projects\[Homework]AdvancedCsharp06.StreamsAndFiles\04.CopyBinaryFile\bin\Debug\04.CopyBinaryFile.exe
+C:\Users\soki\Documents\visual studio 2013\Projects\[Homework]AdvancedCsharp06.StreamsAndFiles\04.CopyBinaryFile\bin\Debug\04.CopyBinaryFile.pdb
+C:\Users\soki\Documents\visual studio 2013\Projects\[Homework]AdvancedCsharp06.StreamsAndFiles\04.CopyBinaryFile\obj\Debug\04.CopyBinaryFile.csprojResolveAssemblyReference.cache
+C:\Users\soki\Documents\visual studio 2013\Projects\[Homework]AdvancedCsharp06.StreamsAndFiles\04.CopyBinaryFile\obj\Debug\04.CopyBinaryFile.exe
+C:\Users\soki\Documents\visual studio 2013\Projects\[Homework]AdvancedCsharp06.StreamsAndFiles\04.CopyBinaryFile\obj\Debug\04.CopyBinaryFile.pdb

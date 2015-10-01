@@ -1,0 +1,9 @@
+c:\users\soki\documents\visual studio 2013\Projects\[Homework]AdvancedCsharp06.StreamsAndFiles\04.WordCount\bin\Debug\04.WordCount.exe.config
+c:\users\soki\documents\visual studio 2013\Projects\[Homework]AdvancedCsharp06.StreamsAndFiles\04.WordCount\bin\Debug\04.WordCount.exe
+c:\users\soki\documents\visual studio 2013\Projects\[Homework]AdvancedCsharp06.StreamsAndFiles\04.WordCount\bin\Debug\04.WordCount.pdb
+c:\users\soki\documents\visual studio 2013\Projects\[Homework]AdvancedCsharp06.StreamsAndFiles\04.WordCount\obj\Debug\03.WordCount.csprojResolveAssemblyReference.cache
+c:\users\soki\documents\visual studio 2013\Projects\[Homework]AdvancedCsharp06.StreamsAndFiles\04.WordCount\obj\Debug\04.WordCount.exe
+c:\users\soki\documents\visual studio 2013\Projects\[Homework]AdvancedCsharp06.StreamsAndFiles\04.WordCount\obj\Debug\04.WordCount.pdb
+C:\Users\soki\Documents\visual studio 2013\Projects\[Homework]AdvancedCsharp06.StreamsAndFiles\03.WordCount\bin\Debug\04.WordCount.exe.config
+C:\Users\soki\Documents\visual studio 2013\Projects\[Homework]AdvancedCsharp06.StreamsAndFiles\03.WordCount\obj\Debug\04.WordCount.exe
+C:\Users\soki\Documents\visual studio 2013\Projects\[Homework]AdvancedCsharp06.StreamsAndFiles\03.WordCount\obj\Debug\04.WordCount.pdb

@@ -1,0 +1,6 @@
+c:\Users\soki\documents\visual studio 2013\Projects\RegexExercises\05.ValidUsernames\bin\Debug\05.ValidUsernames.exe.config
+c:\Users\soki\documents\visual studio 2013\Projects\RegexExercises\05.ValidUsernames\bin\Debug\05.ValidUsernames.exe
+c:\Users\soki\documents\visual studio 2013\Projects\RegexExercises\05.ValidUsernames\bin\Debug\05.ValidUsernames.pdb
+c:\Users\soki\documents\visual studio 2013\Projects\RegexExercises\05.ValidUsernames\obj\Debug\05.ValidUsernames.csprojResolveAssemblyReference.cache
+c:\Users\soki\documents\visual studio 2013\Projects\RegexExercises\05.ValidUsernames\obj\Debug\05.ValidUsernames.exe
+c:\Users\soki\documents\visual studio 2013\Projects\RegexExercises\05.ValidUsernames\obj\Debug\05.ValidUsernames.pdb
